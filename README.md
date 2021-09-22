@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moharm
+- 👋 Hi, I’m Mohcine Harmouch
 - 👀 I’m interested in software develeppment 
 - 🌱 I’m currently learning new tech out there as typeScript and kubernetes 
 - 💞️ I’m looking to collaborate on Spring and/or ReactJs
